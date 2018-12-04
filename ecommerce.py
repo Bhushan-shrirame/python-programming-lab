@@ -3,7 +3,7 @@ import sys
 list1 =[]
 sum1 = 0
 while 1:
-    msgbox("namaste")
+    msgbox("HELLO")
 
     msg ="Which site do you prefer?"
     title = "Online Shopping"
